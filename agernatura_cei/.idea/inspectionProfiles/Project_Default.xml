@@ -1,0 +1,64 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="35">
+            <item index="0" class="java.lang.String" itemvalue="numba" />
+            <item index="1" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="2" class="java.lang.String" itemvalue="myTransformers" />
+            <item index="3" class="java.lang.String" itemvalue="gruexplainer" />
+            <item index="4" class="java.lang.String" itemvalue="PDPbox" />
+            <item index="5" class="java.lang.String" itemvalue="pyspark" />
+            <item index="6" class="java.lang.String" itemvalue="rosetta-api" />
+            <item index="7" class="java.lang.String" itemvalue="myexplainer" />
+            <item index="8" class="java.lang.String" itemvalue="dalton" />
+            <item index="9" class="java.lang.String" itemvalue="numpy" />
+            <item index="10" class="java.lang.String" itemvalue="catboost" />
+            <item index="11" class="java.lang.String" itemvalue="my_code_utils" />
+            <item index="12" class="java.lang.String" itemvalue="seaborn" />
+            <item index="13" class="java.lang.String" itemvalue="myplots" />
+            <item index="14" class="java.lang.String" itemvalue="s3fs" />
+            <item index="15" class="java.lang.String" itemvalue="risks-utils" />
+            <item index="16" class="java.lang.String" itemvalue="xgboost" />
+            <item index="17" class="java.lang.String" itemvalue="rafiki" />
+            <item index="18" class="java.lang.String" itemvalue="scipy" />
+            <item index="19" class="java.lang.String" itemvalue="myreasoncodes" />
+            <item index="20" class="java.lang.String" itemvalue="pydantic" />
+            <item index="21" class="java.lang.String" itemvalue="lime" />
+            <item index="22" class="java.lang.String" itemvalue="myestimators" />
+            <item index="23" class="java.lang.String" itemvalue="sparky-utils" />
+            <item index="24" class="java.lang.String" itemvalue="plotly" />
+            <item index="25" class="java.lang.String" itemvalue="category_encoders" />
+            <item index="26" class="java.lang.String" itemvalue="gru" />
+            <item index="27" class="java.lang.String" itemvalue="myutils" />
+            <item index="28" class="java.lang.String" itemvalue="pandas" />
+            <item index="29" class="java.lang.String" itemvalue="mdlp-discretization" />
+            <item index="30" class="java.lang.String" itemvalue="mcfly" />
+            <item index="31" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="32" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="33" class="java.lang.String" itemvalue="pypandoc" />
+            <item index="34" class="java.lang.String" itemvalue="lightgbm" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="worker_cores" />
+          <option value="full_environment_path" />
+          <option value="minions" />
+          <option value="worker_threads" />
+          <option value="worker_memory" />
+          <option value="n_workers" />
+          <option value="worker_size" />
+          <option value="deploy_mode" />
+          <option value="run_distributed" />
+          <option value="tempdir" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
